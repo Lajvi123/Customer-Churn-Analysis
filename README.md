@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer Churn Analysis
 The Customer Churn Analysis project aims to identify patterns and trends in customer behavior that lead to churn (customers leaving a service). I have provided an in-depth analysis of Maven Telecom’s churn dataset and to answer the following questions:
 
 1. What are the key drivers of churn?
