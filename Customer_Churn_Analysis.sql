@@ -2,7 +2,7 @@ select * from churn;
 
 -- CUSTOMER CHURN ANALYSIS --
 
---   **** STEP 1 : DATA CLEANING AND PREPARATION ****.  -- 
+--   **** STEP 1 : DATA CLEANING AND PREPARATION ****  -- 
 
 -- Find the duplicates -- 
 Select Customer_ID, count(Customer_ID)  as count
