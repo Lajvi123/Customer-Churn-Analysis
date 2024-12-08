@@ -27,3 +27,12 @@ The dataset includes information about customers, their demographics, and their 
 * Monthly Charges: Monthly fee paid by the customer.
 * Tenure: Duration (in months) a customer has been with the company.
 * Churn Reason: Reason provided by the customer for leaving the service.
+
+  **Insights**
+  1. Maven has 1869 churned customers which is around 26% of the total customers and 20% of them are high-value customers.
+  2. Customers with a tenure of less than 6 months are more likely to churn compared to those who have stayed for more than a year.
+  3. Maven lost ~$1.7 million to competitors, making it the most expensive type of churn.
+  4. The top 3 reasons for churn are competitors made better offers, competitors had better devices and attitude of support staff.
+  5. The key indicators of churn are Month-to-Month contract , No Premium Tech Support, Fiber Optic internet, No promotional offer and Offer E.
+
+  
